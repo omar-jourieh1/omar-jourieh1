@@ -26,11 +26,7 @@ Flutter App Development, Flutter, Dart, Java, C#, XML
 - 💬 Ask me about Flutter|Dart or Anything
 
 ## My Repos
-<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-jourieh1&show_icons=true&theme=radical" alt="omar-jourieh1"/>
-</a>
 
-</a>
-<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-jourieh1&layout=compact&theme=radical" alt="omar-jourieh1"/>
-</a>
+
