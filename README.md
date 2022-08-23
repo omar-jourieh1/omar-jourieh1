@@ -56,6 +56,14 @@ It is a simple application for readers of the Holy Quran without the need to con
   
 <hr>
 
+<h2> Contact with me on </h2>
+
+<!-- <h3>Where to find me</h3>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
+
+- email : omarjourieh1@gmail.com
+- phone:<a href="https://api.whatsapp.com/send?phone=963936265253&text=Hey%20O(%E2%88%A9_%E2%88%A9)O%20You%27re%20welcome%20to%20connect%20any%20time"> +963936265253</a >
+
 ## My Repos
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-jourieh1&show_icons=true&theme=radical" alt="omar-jourieh1"/>
 
