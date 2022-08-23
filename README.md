@@ -12,15 +12,21 @@
 - Experience with Git, or other version control tools
 - Proven experience in writing readable code, creating extensive documentation for existing code, and refactoring previously written code
 
-## Programming Languages
+## Programming Languages 
 
 ```
-Flutter App Development, Flutter, Dart, Java, C#, XML
+Dart, Java, Kotlin, C# 
+```
+
+## Framworks 
+
+```
+Flutter, Bootstrap
 ```
 
 ## About me:
 
-- 🔭 I’m currently working on DNA Gmbh on YOLO project
+- 🔭 I’m worked on DNA Gmbh on YOLO project (finished work in 2022/8/21)
 - 🌱 I’m currently learning Flutter🦋
 - 👯 I’m looking to collaborate on Eid🥳
 - 💬 Ask me about Flutter|Dart or Anything
