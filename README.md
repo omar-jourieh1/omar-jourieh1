@@ -3,6 +3,9 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/omarjourieh1)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:omarjourieh1@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
+### Software Engineer | Flutter Developer | Worked in Yolo Project | omarjourieh1@gmail.com | I Help Companies And People To Find Digital Solutions To Their Business
+
+
 ### My Experience:
 - two or more iOS/Android apps developed with Flutter. deployed on the Google Play 
 - two years in mobile software development
