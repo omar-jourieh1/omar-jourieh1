@@ -56,13 +56,29 @@ It is a simple application for readers of the Holy Quran without the need to con
   
 <hr>
 
+### <a href="https://ibb.co/6yhwbPW"><img src="https://i.ibb.co/df9M625/k67gphvc-1392300534.jpg" width="32"  alt="Flippy Bird" border="0"></a><a target='_blank' href='https://imgbb.com/'></a> Flippy Bird
+The popular Flippy bird game is built on the Flutter framework
+Without the use of external library
+Description of the game:
+Flappy Bird is a mobile game developed by an artist and programmer
+Vietnamese video games Dong Nguyen, under the supervision of
+His game development company. The game is a scrolling game
+Sideways where the player controls a bird, in
+Try to fly between columns of tubes
+green without hitting it.
+<p><a href="https://drive.google.com/file/d/1FLVjY3mfP5RX-VX1uTEMe18kEbe9uXe3/view" target="_blank"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-blue.svg?style=for-the-badge&logo=google-drive" /></a><p>
+  
+<a href="https://www.buymeacoffee.com/omarjourieh"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
+  
+<hr>
+
 <h2> Contact with me on </h2>
 
 <!-- <h3>Where to find me</h3>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
 
-- email : omarjourieh1@gmail.com
-- phone:<a href="https://api.whatsapp.com/send?phone=963936265253&text=Hey%20O(%E2%88%A9_%E2%88%A9)O%20You%27re%20welcome%20to%20connect%20any%20time"> +963936265253</a >
+- 📩email : omarjourieh1@gmail.com
+- 📱phone:<a href="https://api.whatsapp.com/send?phone=963936265253&text=Hey%20O(%E2%88%A9_%E2%88%A9)O%20You%27re%20welcome%20to%20connect%20any%20time"> +963936265253</a >
 
 ## My Repos
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-jourieh1&show_icons=true&theme=radical" alt="omar-jourieh1"/>
