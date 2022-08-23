@@ -46,9 +46,9 @@ BMI Modern is a program that calculates the weight if it is normal based on an e
 <p><a href="https://play.google.com/store/apps/details?id=com.omarjourieh.calculator" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
   
 
-### <img src="https://i.ibb.co/Pt6qM1s/aqra.png" width="32"> Aqra
+### <a href="https://ibb.co/Trg91PD"><img src="https://i.ibb.co/Pt6qM1s/aqra.png" alt="aqra" border="0"></a> Aqra
 It is a simple application for readers of the Holy Quran without the need to connect to the internet.
-<p><a href="https://drive.google.com/file/d/1b3oQfLOLaa9NBiB46VZNszHV3dhGf81G/view?usp=sharing" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
+<p><a href="https://drive.google.com/file/d/1b3oQfLOLaa9NBiB46VZNszHV3dhGf81G/view?usp=sharing" target="_blank"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-blue.svg?style=for-the-badge&logo=google-drive" /></a><p>
   
 <a href="https://www.buymeacoffee.com/omarjourieh"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
 <hr>
