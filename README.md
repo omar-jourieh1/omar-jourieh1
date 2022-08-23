@@ -45,6 +45,7 @@ All while prioritizing security through a highly secured coding system to ensure
 BMI Modern is a program that calculates the weight if it is normal based on an equation that includes the weight, height and age, where it determines whether the weight was normal or abnormal in relation to the person’s height.
 <p><a href="https://play.google.com/store/apps/details?id=com.omarjourieh.calculator" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
   
+<a href="https://www.buymeacoffee.com/omarjourieh"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
 <hr>
 
 ### <a href="https://ibb.co/Trg91PD"><img src="https://i.ibb.co/Pt6qM1s/aqra.png" width="32" height="38" alt="aqra" border="0"></a> Aqra
