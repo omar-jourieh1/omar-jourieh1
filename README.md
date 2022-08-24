@@ -2,7 +2,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/omar-jourieh)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/omarjourieh1)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:omarjourieh1@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-
+ 
 ### Software Engineer | Flutter Developer | Worked in Yolo Project | omarjourieh1@gmail.com | I Help Companies And People To Find Digital Solutions To Their Business
 
 
@@ -88,6 +88,7 @@ green without hitting it.
 
 - 📩email : omarjourieh1@gmail.com
 - 📱phone:<a href="https://api.whatsapp.com/send?phone=963936265253&text=Hey%20O(%E2%88%A9_%E2%88%A9)O%20You%27re%20welcome%20to%20connect%20any%20time"> +963936265253</a >
+- 🎯Linkedin:<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=omarjourieh" target="_blank">Follow on LinkedIn</a>
 
 ## My Repos
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-jourieh1&show_icons=true&theme=radical" alt="omar-jourieh1"/>
