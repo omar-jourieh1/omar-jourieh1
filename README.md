@@ -3,7 +3,7 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/omarjourieh1)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:omarjourieh1@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
  
-### Software Engineer | Flutter Developer | Worked in Yolo Project | omarjourieh1@gmail.com | I Help Companies And People To Find Digital Solutions To Their Business
+### Mobile Developer | Flutter Developer | Software Engineer | Worked in Yolo GmbH | ≦ HELP Companies And People Find Digital SOLUTIONS To Their BUSINESS ≧
 
 
 ### My Experience:
@@ -14,6 +14,9 @@
 - Understanding of the Agile development life-cycle
 - Experience with Git, or other version control tools
 - Proven experience in writing readable code, creating extensive documentation for existing code, and refactoring previously written code
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-jourieh1&label=Profile%20views&color=0e75b6&style=flat" alt="omar-jourieh1" /> </p>
+
 
 ## Programming Languages 
 
@@ -90,6 +93,8 @@ green without hitting it.
 - 📱phone:<a href="https://api.whatsapp.com/send?phone=963936265253&text=Hey%20O(%E2%88%A9_%E2%88%A9)O%20You%27re%20welcome%20to%20connect%20any%20time"> +963936265253</a >
 - 🎯Linkedin:<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=omarjourieh" target="_blank">Follow on LinkedIn</a>
 
+
+
 ## My Repos
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-jourieh1&show_icons=true&theme=radical" alt="omar-jourieh1"/>
 
@@ -99,4 +104,3 @@ green without hitting it.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-jourieh1&label=Profile%20views&color=0e75b6&style=flat" alt="omar-jourieh1" /> </p>
