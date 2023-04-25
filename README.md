@@ -32,12 +32,24 @@ Flutter, Bootstrap
 
 ## About me:
 
-- 🔭 I’m worked on DNA Gmbh on YOLO project (finished work in 2022/8/21)
+- 🔭 I’m worked on 1- DNA Gmbh on YOLO project (finished work in 2022/8/21)
+- 🔭 and worked on 2- Konax on centermeta project (finished word in 2023/2/15)
 - 🌱 I’m currently learning Flutter🦋
 - 👯 I’m looking to collaborate on Eid🥳
 - 💬 Ask me about Flutter|Dart or Anything
 
 ## My Projects
+
+### <img src="https://centrameta.us/wp-content/uploads/2022/09/logo2-290x81.png" alt=" Centermeta" width="32"> Centermeta
+The Web3-Content Creators Of Tomorrow Need Centrameta Today
+Centrameta aims to surpass the middleman to build a next-gen, creator-ownership experience for all of us.
+Create
+Create The Magic
+<p><a href="https://centrameta.us/" target="_blank"><img alt="Website" src="https://img.shields.io/website/http/www.website.com/path/to/page.html.svg" /></a><p>
+  
+<a href="https://www.buymeacoffee.com/omarjourieh"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
+
+<hr>
 
 ### <img src="https://play-lh.googleusercontent.com/g0NmjWjNLeu7BwFFUR5ds1RVDvKtK9yxV_55ECqFGpFeF4w6yXBXKo4psa_cIaqL5CU=w240-h480-rw" alt=" Yolo E-health" width="32"> Yolo E-health
 Yolo GmbH Launched in Germany in 2022, YOLO is the revolutionary innovation reshaping how healthcare is accessed and provided, through a holistic digital solution.
