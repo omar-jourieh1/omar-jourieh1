@@ -45,7 +45,7 @@ The Web3-Content Creators Of Tomorrow Need Centrameta Today
 Centrameta aims to surpass the middleman to build a next-gen, creator-ownership experience for all of us.
 Create
 Create The Magic
-<p><a href="https://centrameta.us/" target="_blank"><img alt="Website" src="https://img.shields.io/website/http/www.website.com/path/to/page.html.svg" /></a><p>
+<p><a href="https://centrameta.us/" target="_blank"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fcentrameta.us%2F" /></a><p>
   
 <a href="https://www.buymeacoffee.com/omarjourieh"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
 
