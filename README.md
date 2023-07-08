@@ -24,10 +24,10 @@
 Dart, Java, Kotlin, C# 
 ```
 
-## Framworks 
+## Framwork
 
 ```
-Flutter, Bootstrap
+Flutter
 ```
 
 ## About me:
@@ -39,6 +39,10 @@ Flutter, Bootstrap
 - 💬 Ask me about Flutter|Dart or Anything
 
 ## My Projects
+
+### <img src="https://raw.githubusercontent.com/omar-jourieh1/kiddo/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt=" Centermeta" width="32"> Kidddo
+The kiddo ebook application is to help children read in a fun and simple way
+<p><a href="https://drive.google.com/file/d/1C2c530RA28hwXej0_hPhzsLMSc2BAz_1/view?usp=drive_link" target="_blank"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fcentrameta.us%2F" /></a><p>
 
 ### <img src="https://centrameta.us/wp-content/uploads/2022/09/logo2-290x81.png" alt=" Centermeta" width="32"> Centermeta
 The Web3-Content Creators Of Tomorrow Need Centrameta Today
