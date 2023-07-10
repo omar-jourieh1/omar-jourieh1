@@ -40,24 +40,11 @@ Flutter
 
 ## My Projects
 
-### <img src="https://raw.githubusercontent.com/omar-jourieh1/kiddo/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt=" Kiddo" width="32"> Kidddo <!🏛Collage Project>
-The kiddo ebook application is to help children read in a fun and simple way
-<p><a href="https://drive.google.com/file/d/1C2c530RA28hwXej0_hPhzsLMSc2BAz_1/view?usp=drive_link" target="_blank"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-blue.svg?style=for-the-badge&logo=google-drive" /></a><p>
-
 <hr>
-
-### <img src="https://centrameta.us/wp-content/uploads/2022/09/logo2-290x81.png" alt=" Centermeta" width="32"> Centermeta 
-The Web3-Content Creators Of Tomorrow Need Centrameta Today
-Centrameta aims to surpass the middleman to build a next-gen, creator-ownership experience for all of us.
-Create
-Create The Magic
-<p><a href="https://centrameta.us/" target="_blank"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fcentrameta.us%2F" /></a><p>
-  
-<a href="https://www.buymeacoffee.com/omarjourieh"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
-
-<hr>
-
-### <img src="https://play-lh.googleusercontent.com/g0NmjWjNLeu7BwFFUR5ds1RVDvKtK9yxV_55ECqFGpFeF4w6yXBXKo4psa_cIaqL5CU=w240-h480-rw" alt=" Yolo E-health" width="32"> Yolo E-health
+<table>
+   <th>Companies Projects</th>
+ <tr><td rowspan="2">
+<img src="https://play-lh.googleusercontent.com/g0NmjWjNLeu7BwFFUR5ds1RVDvKtK9yxV_55ECqFGpFeF4w6yXBXKo4psa_cIaqL5CU=w240-h480-rw" alt=" Yolo E-health" width="32"> Yolo E-health <br>
 Yolo GmbH Launched in Germany in 2022, YOLO is the revolutionary innovation reshaping how healthcare is accessed and provided, through a holistic digital solution.
 Yolo allows every clinic worldwide to manage their businesses efficiently through many features of cutting-edge technology:
 Clinic Management
@@ -68,17 +55,30 @@ All while prioritizing security through a highly secured coding system to ensure
 <p><a href="https://play.google.com/store/apps/details?id=com.lila.lila" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="[https://apps.apple.com/us/app/jameel-salon-at-home/id1586524531](https://testflight.apple.com/join/y8BQGlKG)" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
   
 <a href="https://www.buymeacoffee.com/omarjourieh"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
+</td>
+<td rowspan="2">
+<img src="https://centrameta.us/wp-content/uploads/2022/09/logo2-290x81.png" alt=" Centermeta" width="32"> Centermeta  <br>
+The Web3-Content Creators Of Tomorrow Need Centrameta Today
+Centrameta aims to surpass the middleman to build a next-gen, creator-ownership experience for all of us.
+Create
+Create The Magic
+<p><a href="https://centrameta.us/" target="_blank"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fcentrameta.us%2F" /></a><p> 
+<a href="https://www.buymeacoffee.com/omarjourieh"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
+</td>
+</tr></table>
 
 <hr>
-
-### <img src="https://play-lh.googleusercontent.com/LZdEk6wiFKRSHvk3Ys1sJpCY4A9v9cM0P4xjPbj-lE0UPg8EBDXXeqKXs1mRAAudIw=w240-h480-rw"  alt="BMI Moder" width="32"> BMI Modern <!🐱‍👤Personal Project>
+<table>
+   <th>Personal Projects</th>
+ <tr><td rowspan="2">
+<a href="https://www.buymeacoffee.com/omarjourieh"> <img src="https://play-lh.googleusercontent.com/LZdEk6wiFKRSHvk3Ys1sJpCY4A9v9cM0P4xjPbj-lE0UPg8EBDXXeqKXs1mRAAudIw=w240-h480-rw"  alt="BMI Moder" width="32"></a> BMI Modern <br>
 BMI Modern is a program that calculates the weight if it is normal based on an equation that includes the weight, height and age, where it determines whether the weight was normal or abnormal in relation to the person’s height.
 <p><a href="https://play.google.com/store/apps/details?id=com.omarjourieh.calculator" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
   
 <a href="https://www.buymeacoffee.com/omarjourieh"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
 <hr>
 
-### <a href="https://ibb.co/Trg91PD"><img src="https://i.ibb.co/Pt6qM1s/aqra.png" width="32" height="38" alt="aqra" border="0"></a> Aqra <!🐱‍👤Personal Project>
+### <a href="https://ibb.co/Trg91PD"><img src="https://i.ibb.co/Pt6qM1s/aqra.png" width="32" height="38" alt="aqra" border="0"></a> Aqra 
 It is a simple application for readers of the Holy Quran without the need to connect to the internet.
 <p><a href="https://drive.google.com/file/d/1b3oQfLOLaa9NBiB46VZNszHV3dhGf81G/view?usp=sharing" target="_blank"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-blue.svg?style=for-the-badge&logo=google-drive" /></a><p>
   
@@ -86,7 +86,7 @@ It is a simple application for readers of the Holy Quran without the need to con
   
 <hr>
 
-### <a href="https://ibb.co/6yhwbPW"><img src="https://i.ibb.co/df9M625/k67gphvc-1392300534.jpg" width="32"  alt="Flippy Bird" border="0"></a><a target='_blank' href='https://imgbb.com/'></a> Flippy Bird <!🐱‍👤Personal Project>
+### <a href="https://ibb.co/6yhwbPW"><img src="https://i.ibb.co/df9M625/k67gphvc-1392300534.jpg" width="32"  alt="Flippy Bird" border="0"></a><a target='_blank' href='https://imgbb.com/'></a> Flippy Bird 
 The popular Flippy bird game is built on the Flutter framework
 Without the use of external library
 Description of the game:
