@@ -1,5 +1,5 @@
 
-# Hi, i'm Omar Jourieh 👋 ##
+# Hi, I'm Omar Jourieh 👋 ##
 
 ![1662119919909](https://github.com/omar-jourieh1/omar-jourieh1/assets/67164376/8752fc1d-6c3a-49c0-992b-80a817034314)
 
