@@ -101,24 +101,24 @@ Arabic {
  <tr><td rowspan="2">
 
 <a href="https://www.buymeacoffee.com/omarjourieh"> <img src="https://github.com/omar-jourieh1/flutter_bluetooth_project/blob/main/images/play_store_512.png"  alt="سترة طبية" width="32"></a> سترة طبية <br>
-# English {
+## English {
 A project based on the principle of helping people know simple things about their bodies such as body temperature, air humidity, heartbeat, blood oxygenation, and paying attention to obstacles. It was presented as a graduation project in addition to connecting it with the Ardunio Mega device via the HC-05 chip.
-}
-# Arabic {
+## }
+## Arabic {
 مشروع يقوم على مبدأ مساعدة الناس في معرفة الاشياء البسيطة عن اجسامهم مثل حرارة الجسم ورطوبة الجو و نبضات القلب واكسجة الدم والانتباه الى العقبات، وقد تم تقديمه كمشروع تخرج بالإضافة لربطه مع جهاز Ardunio Mega عن طريق شريحة HC-05
-}
+## }
  <p><a href="https://github.com/omar-jourieh1/flutter_bluetooth_project" target="_blank"><img alt="Github" src="https://img.shields.io/badge/source%20code%20on%20github-black.svg?style=for-the-badge&logo=github&logoColor=white" /></a><p> 
   
 <a href="https://www.buymeacoffee.com/omarjourieh"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
 <hr>
   
 <a href="https://www.buymeacoffee.com/omarjourieh"> <img src="https://github.com/omar-jourieh1/kiddo/blob/master/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"  alt="Kiddo" width="32"></a> Kiddo <br>
-# English {
+## English {
 The kiddo ebook application is to help children read in a fun and simple way
-}
-# Arabic {
+## }
+## Arabic {
 تطبيق kiddo ebook هو مساعدة الأطفال على القراءة بطريقة ممتعة وبسيطة
-}
+## }
 <p><a href="https://drive.google.com/file/d/1C2c530RA28hwXej0_hPhzsLMSc2BAz_1/view?usp=drive_link" target="_blank"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-yellow.svg?style=for-the-badge&logo=google-drive" /></a><p>
  <p><a href="https://github.com/omar-jourieh1/kiddo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/source%20code%20on%20github-black.svg?style=for-the-badge&logo=github&logoColor=white" /></a><p> 
   
@@ -126,12 +126,12 @@ The kiddo ebook application is to help children read in a fun and simple way
 <hr>
   
 <a href="https://www.buymeacoffee.com/omarjourieh"> <img src="https://play-lh.googleusercontent.com/LZdEk6wiFKRSHvk3Ys1sJpCY4A9v9cM0P4xjPbj-lE0UPg8EBDXXeqKXs1mRAAudIw=w240-h480-rw"  alt="BMI Moder" width="32"></a> BMI Modern <br>
-# English {
+## English {
 BMI Modern is a program that calculates the normal weight based on an equation that includes weight, height, and age, where it determines whether the weight is normal or abnormal in relation to the person’s height
-}
-# Arabic {
+## }
+## Arabic {
 مؤشر كتلة الجسم الحديث هو برنامج يقوم بحساب الوزن الطبيعي بناء على معادلة تشمل الوزن والطول والعمر حيث يحدد ما إذا كان الوزن طبيعي أم غير طبيعي بالنسبة لطول الشخص
-}
+## }
 
 <p><a href="https://play.google.com/store/apps/details?id=com.omarjourieh.calculator" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
    <p><a href="https://github.com/omar-jourieh1/BMI_Calculator" target="_blank"><img alt="Github" src="https://img.shields.io/badge/source%20code%20on%20github-black.svg?style=for-the-badge&logo=github&logoColor=white" /></a><p> 
@@ -140,12 +140,12 @@ BMI Modern is a program that calculates the normal weight based on an equation t
 <hr>
 
 ### <a href="https://ibb.co/Trg91PD"><img src="https://i.ibb.co/Pt6qM1s/aqra.png" width="32" height="38" alt="aqua" border="0"></a> Aqra 
-# English { 
+## English { 
 It is a simple application for readers of the Holy Quran without the need to connect to the internet.
-}
-# Arabic { 
+## }
+## Arabic { 
 وهو تطبيق بسيط لقراء القرآن الكريم دون الحاجة للاتصال بالانترنت.
-}
+## }
 <p><a href="https://drive.google.com/file/d/1b3oQfLOLaa9NBiB46VZNszHV3dhGf81G/view?usp=sharing" target="_blank"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-blue.svg?style=for-the-badge&logo=google-drive" /></a><p>
    <p><a href="https://github.com/omar-jourieh1/quranApp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/source%20code%20on%20github-black.svg?style=for-the-badge&logo=github&logoColor=white" /></a><p> 
 <a href="https://www.buymeacoffee.com/omarjourieh"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
@@ -153,7 +153,7 @@ It is a simple application for readers of the Holy Quran without the need to con
 <hr>
 
 ### <a href="https://ibb.co/6yhwbPW"><img src="https://i.ibb.co/df9M625/k67gphvc-1392300534.jpg" width="32"  alt="Flippy Bird" border="0"></a><a target='_blank' href='https://imgbb.com/'></a> Flippy Bird
-# English {
+## English {
 The popular Flippy bird game is built on the Flutter framework
 Without the use of an external library
 Description of the game:
@@ -163,9 +163,9 @@ His game development company. The game is a scrolling game
 Sideways where the player controls a bird, in
 Try to fly between columns of tubes
 Green without hitting it.
-}
+## }
 
-# Arabic {
+## Arabic {
 تم بناء لعبة Flippy Bird الشهيرة على إطار عمل Flutter
 بدون الاستعانة بمكتبة خارجية
 وصف اللعبة:
@@ -175,7 +175,7 @@ Green without hitting it.
 جانبية حيث يتحكم اللاعب في طائر
 حاول الطيران بين أعمدة الأنابيب
 الأخضر دون ضربه.
-}
+## }
 
 <p><a href="https://drive.google.com/file/d/1FLVjY3mfP5RX-VX1uTEMe18kEbe9uXe3/view" target="_blank"><img alt="Google Drive" src="https://img.shields.io/badge/Get%20it%20on%20google%20drive-blue.svg?style=for-the-badge&logo=google-drive" /></a><p>
      <p><a href="https://github.com/omar-jourieh1/flippy_bird" target="_blank"><img alt="Github" src="https://img.shields.io/badge/source%20code%20on%20github-black.svg?style=for-the-badge&logo=github&logoColor=white" /></a><p> 
