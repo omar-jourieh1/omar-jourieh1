@@ -100,9 +100,9 @@ Arabic {
    <th>Personal Projects</th>
  <tr><td rowspan="2">
 
-<a href="https://www.buymeacoffee.com/omarjourieh"> <img src="https://github.com/omar-jourieh1/flutter_bluetooth_project/blob/main/images/play_store_512.png"  alt="سترة طبية" width="32"></a> سترة طبية <br>
+<a href="https://www.buymeacoffee.com/omarjourieh"> <img src="https://lh3.google.com/u/0/d/1Kslt7zgw8_7dZ5CXxnfCYsJwk-pcYalA=w1366-h619-iv1"  alt="سترة طبية" width="32"></a> سترة طبية <br>
 ## English {
-A project based on the principle of helping people know simple things about their bodies such as body temperature, air humidity, heartbeat, blood oxygenation, and paying attention to obstacles. It was presented as a graduation project in addition to connecting it with the Ardunio Mega device via the HC-05 chip.
+A project based on the principle of helping people know simple things about their bodies such as body temperature, air humidity, heartbeat, blood oxygenation, and paying attention to obstacles. It was presented as a graduation project in addition to connecting it with the Arduino Mega device via the HC-05 chip.
 ## }
 ## Arabic {
 مشروع يقوم على مبدأ مساعدة الناس في معرفة الاشياء البسيطة عن اجسامهم مثل حرارة الجسم ورطوبة الجو و نبضات القلب واكسجة الدم والانتباه الى العقبات، وقد تم تقديمه كمشروع تخرج بالإضافة لربطه مع جهاز Ardunio Mega عن طريق شريحة HC-05
@@ -112,7 +112,7 @@ A project based on the principle of helping people know simple things about thei
 <a href="https://www.buymeacoffee.com/omarjourieh"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
 <hr>
   
-<a href="https://www.buymeacoffee.com/omarjourieh"> <img src="https://github.com/omar-jourieh1/kiddo/blob/master/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"  alt="Kiddo" width="32"></a> Kiddo <br>
+<a href="https://www.buymeacoffee.com/omarjourieh"> <img src="https://lh3.google.com/u/0/d/1QvdwHQ4Vss66h2gGtwpXsuFNaLFnzEAT=w1366-h619-iv1"  alt="Kiddo" width="32"></a> Kiddo <br>
 ## English {
 The kiddo ebook application is to help children read in a fun and simple way
 ## }
