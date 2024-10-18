@@ -1,7 +1,7 @@
 
 # Hi, I'm Omar Jourieh 👋 ##
 
-![1662119919909](https://github.com/omar-jourieh1/omar-jourieh1/assets/67164376/8752fc1d-6c3a-49c0-992b-80a817034314)
+ <img src="https://www.cylogy.com/wp-content/uploads/2024/05/flutter.png" alt="omar-jourieh1" />
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/omarjourieh1)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/omarjourieh1)
